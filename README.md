@@ -31,12 +31,6 @@ cargo build --release
 
 ---
 
-## 🖼️ Screenshot | تصویر محیط برنامه
-
-> 
-
----
-
 ## 📄 License | لایسنس
 
 This project is licensed under the [MIT License](LICENSE).  
