@@ -35,4 +35,5 @@ cargo build --release
 
 This project is licensed under the [MIT License](LICENSE).  
 این پروژه تحت لایسنس MIT منتشر شده است.
+![Repo Badge](https://visitor-badge.laobi.icu/badge?page_id=null-err0r.IP-Logger-GUI) 
 
