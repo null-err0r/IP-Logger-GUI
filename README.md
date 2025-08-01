@@ -1,4 +1,4 @@
-# 📝 IP Logger GUI (Rust)
+# 📝 IP Logger GUI 
 
 A lightweight, cross-platform graphical IP logger built in Rust using `egui` and `eframe`.
 
